@@ -17,3 +17,7 @@ img {
     width: auto%;
     height: 400px;
 }
+
+#recipes-list {
+    list-style-type: none;
+}
