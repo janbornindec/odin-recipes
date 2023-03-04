@@ -1,10 +1,19 @@
+* {
+    text-align: center;
+}
+
 h1 {
     font-weight: bold;
     font-family: 'Monaco', monospace;
-    color: rgb(209, 102, 85)
+    color: rgb(209, 102, 85);
 }
 
 img {
-    width: 580px;
-    height: auto;
+    display: block;
+    margin: auto;
+}
+
+#animation {
+    width: auto%;
+    height: 400px;
 }
