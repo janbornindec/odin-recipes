@@ -1,23 +1,21 @@
-* {
-    text-align: center;
-}
-
 h1 {
     font-weight: bold;
     font-family: 'Monaco', monospace;
     color: rgb(209, 102, 85);
 }
 
-img {
+.center {
+    text-align: center;
+}
+
+#animation {
+    width: auto;
+    height: 400px;
     display: block;
     margin: auto;
 }
 
-#animation {
-    width: auto%;
-    height: 400px;
-}
-
 #recipes-list {
     list-style-type: none;
+    text-align: center;
 }
